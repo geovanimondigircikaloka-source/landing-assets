@@ -1,0 +1,2 @@
+# landing-assets
+script.js
